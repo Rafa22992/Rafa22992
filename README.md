@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developer Web and Machine Learning
 - 🌱 I’m currently learning 
 web for front end and python language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... front-end creation
 - 📫 How to reach me https://www.facebook.com/cicero.rafael.925
 
 <!---
