@@ -4,7 +4,7 @@
 web for front end and python language
 - 💞️ I’m looking to collaborate on ... front-end creation
 - 📫 How to reach me Discord Rafael.Pinheiro#9338
-
+And my linkedin https://www.linkedin.com/home/?originalSubdomain=br
 <!---
 Rafa22992/Rafa22992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
